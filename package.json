@@ -1,0 +1,30 @@
+{
+  "name": "ordoro-node",
+  "version": "0.1.0",
+  "description": "wrapper for the ordoro.com shipping api",
+  "main": "lib/ordoro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riley/ordoro-node.git"
+  },
+  "keywords": [
+    "ordoro",
+    "shipping",
+    "api"
+  ],
+  "author": "Riley Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riley/ordoro-node/issues"
+  },
+  "homepage": "https://github.com/riley/ordoro-node#readme",
+  "dependencies": {
+    "bluebird": "^2.10.2",
+    "lodash": "^3.10.1",
+    "qs": "^5.2.0",
+    "request": "^2.65.0"
+  }
+}
