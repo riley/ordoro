@@ -1,5 +1,5 @@
 {
-  "name": "ordoro-node",
+  "name": "ordoro",
   "version": "0.1.0",
   "description": "wrapper for the ordoro.com shipping api",
   "main": "lib/ordoro.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/riley/ordoro-node.git"
+    "url": "git+https://github.com/riley/ordoro.git"
   },
   "keywords": [
     "ordoro",
@@ -18,9 +18,9 @@
   "author": "Riley Davis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/riley/ordoro-node/issues"
+    "url": "https://github.com/riley/ordoro/issues"
   },
-  "homepage": "https://github.com/riley/ordoro-node#readme",
+  "homepage": "https://github.com/riley/ordoro#readme",
   "dependencies": {
     "bluebird": "^2.10.2",
     "lodash": "^3.10.1",
