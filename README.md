@@ -1,4 +1,4 @@
-# ordoro-node
+# ordoro for node
 wrapper for the ordoro shipping api
 
 `npm install ordoro`
