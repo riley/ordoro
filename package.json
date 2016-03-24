@@ -24,7 +24,7 @@
   "dependencies": {
     "bluebird": "^2.10.2",
     "lodash": "^3.10.1",
-    "qs": "^5.2.0",
-    "request": "^2.65.0"
+    "node-fetch": "^1.4.1",
+    "qs": "^5.2.0"
   }
 }
