@@ -1,6 +1,6 @@
 {
   "name": "ordoro",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "wrapper for the ordoro.com shipping api",
   "main": "lib/ordoro.js",
   "scripts": {
