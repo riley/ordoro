@@ -12,6 +12,8 @@ I have some of these partially set up, which is enough for you to start pushing 
 - Warehouse
 - Products
 - Carts
+- Activity
+- Authenticated
 
 ## 1.x update
 - breaking changes: I changed all the endpoints to not use callbacks, but instead use Promises
