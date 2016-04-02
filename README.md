@@ -16,3 +16,7 @@ I have some of these partially set up, which is enough for you to start pushing 
 ## 1.x update
 - breaking changes: I changed all the endpoints to not use callbacks, but instead use Promises
 - added a couple of Product endpoints
+
+## 1.1.0
+- whoops, I don't know how this was working at all. made pathing work better
+- added Activity endpoints
